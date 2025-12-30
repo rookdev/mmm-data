@@ -1,0 +1,186 @@
+{
+  "1": {
+    "datetime": "1760832000",
+    "players": {
+      "7n7": {
+        "game": "A Link to the Past",
+        "eligible": [ "gold" ]
+      },
+      "Fechdog": {
+        "game": "A Link to the Past",
+        "eligible": [ "silver" ]
+      },
+      "Flareon": {
+        "game": "Pokemon Mystery Dungeon: Explorers of Sky",
+        "eligible": [ "bronze" ]
+      },
+      "Kyle": {
+        "game": "Ocarina of Time",
+        "eligible": [ "gold" ]
+      },
+      "Mothula": {
+        "game": "A Link to the Past",
+        "eligible": [ "gold" ]
+      },
+      "Murder": {
+        "game": "Lingo 2",
+        "eligible": [ "gold" ]
+      },
+      "Royal": {
+        "game": "Super Mario 64",
+        "eligible": [ "gold" ]
+      },
+      "Void": {
+        "game": "A Link to the Past",
+        "eligible": [ "silver" ]
+      }
+    }
+  },
+  "2": {
+    "datetime": "1760832000",
+    "players": {
+      "7n7": {
+        "game": "A Link to the Past",
+        "eligible": [ "platinum", "onyx" ]
+      },
+      "Fechdog": {
+        "game": "A Link to the Past",
+        "eligible": [ "platinum", "sapphire" ]
+      },
+      "Flareon": {
+        "game": "Pokemon Mystery Dungeon: Explorers of Sky",
+        "eligible": [ "platinum", "ruby" ]
+      },
+      "Kyle": {
+        "game": "Ocarina of Time",
+        "eligible": [ "gold" ]
+      },
+      "Mothula": {
+        "game": "A Link to the Past",
+        "eligible": [ "platinum" ]
+      },
+      "Murder": {
+        "game": "Lingo 2",
+        "eligible": [ "platinum" ]
+      },
+      "Royal": {
+        "game": "Super Mario 64",
+        "eligible": [ "platinum" ]
+      },
+      "Void": {
+        "game": "A Link to the Past",
+        "eligible": [ "platinum", "emerald" ]
+      }
+    }
+  },
+  "3": {
+    "datetime": "1762646400",
+    "players": {
+      "7n7": {
+        "game": "The Wind Waker",
+        "eligible": [ "platinum", "onyx", "emerald" ]
+      },
+      "ArtsyLG": {
+        "game": "Kirby's Dream Land 3",
+        "eligible": [ "onyx" ]
+      },
+      "Fechdog": {
+        "game": "Ocarina of Time",
+        "eligible": [ "platinum", "diamond", "ruby" ]
+      },
+      "Flareon": {
+        "game": "Pokemon Red and Blue",
+        "eligible": [ "platinum" ]
+      },
+      "Kyle": {
+        "game": "Ocarina of Time",
+        "eligible": [ "gold" ]
+      },
+      "Maskeroshi": {
+        "game": "Ocarina of Time",
+        "eligible": [ "silver" ]
+      },
+      "Mothula": {
+        "game": "Donkey Kong Country",
+        "eligible": [ "platinum" ]
+      },
+      "Murder": {
+        "game": "Lingo",
+        "eligible": [ "platinum", "sapphire" ]
+      },
+      "Royal": {
+        "game": "Super Mario World",
+        "eligible": [ "platinum" ]
+      },
+      "SuperSquad33": {
+        "game": "Super Metroid",
+        "eligible": [ "platinum" ]
+      },
+      "Void": {
+        "game": "Celeste",
+        "eligible": [ "platinum" ]
+      }
+    }
+  },
+  "4": {
+    "datetime": "1764288000",
+    "players": {
+      "7n7": {
+        "game": "Super Mario World",
+        "eligible": [ "orichalcum", "ruby" ]
+      },
+      "Fechdog": {
+        "game": "MegaMan Battle Network 3",
+        "eligible": [ "orichalcum" ]
+      },
+      "Flareon": {
+        "game": "Pokemon Crystal",
+        "eligible": [ "platinum", "sapphire" ]
+      },
+      "Kyle": {
+        "game": "Super Mario 64",
+        "eligible": [ "platinum" ]
+      },
+      "Maskeroshi": {
+        "game": "Ocarina of Time",
+        "eligible": [ "bronze" ]
+      },
+      "Mothula": {
+        "game": "Donkey Kong Country",
+        "eligible": [ "orichalcum" ]
+      },
+      "Murder": {
+        "game": "Secret of Evermore",
+        "eligible": [ "orichalcum" ]
+      },
+      "Royal": {
+        "game": "Super Mario World",
+        "eligible": [ "platinum" ]
+      },
+      "SuperSquad33": {
+        "game": "Super Metroid",
+        "eligible": [ "orichalcum" ]
+      },
+      "Void": {
+        "game": "Mario & Luigi Superstar Saga",
+        "eligible": [ "orichalcum", "emerald" ]
+      }
+    }
+  },
+  "7": {
+    "datetime": "1789030800",
+    "players": {
+      "Fechdog": {
+        "game": "Ocarina of Time",
+        "eligible": [
+          "platinum",
+          "onyx",
+          "diamond",
+          "ruby",
+          "emerald",
+          "sapphire"
+        ]
+      }
+    }
+  }
+}
