@@ -58,4 +58,4 @@ jobs:
       - name: Autoformat
         working-directory: scripts
         run: |
-          python ./scripts/autoformat.py
+          python autoformat.py
