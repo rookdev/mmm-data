@@ -4,35 +4,51 @@
     "players": {
       "7n7": {
         "game": "A Link to the Past",
-        "eligible": [ "gold" ]
+        "eligible": [
+          "gold"
+        ]
       },
       "Fechdog": {
         "game": "A Link to the Past",
-        "eligible": [ "silver" ]
+        "eligible": [
+          "silver"
+        ]
       },
       "Flareon": {
-        "game": "Pokemon Mystery Dungeon: Explorers of Sky",
-        "eligible": [ "bronze" ]
+        "game": "Pok\u00e9mon Mystery Dungeon: Explorers of Sky",
+        "eligible": [
+          "bronze"
+        ]
       },
       "Kyle": {
         "game": "Ocarina of Time",
-        "eligible": [ "gold" ]
+        "eligible": [
+          "gold"
+        ]
       },
       "Mothula": {
         "game": "A Link to the Past",
-        "eligible": [ "gold" ]
+        "eligible": [
+          "gold"
+        ]
       },
       "Murder": {
         "game": "Lingo 2",
-        "eligible": [ "gold" ]
+        "eligible": [
+          "gold"
+        ]
       },
       "Royal": {
         "game": "Super Mario 64",
-        "eligible": [ "gold" ]
+        "eligible": [
+          "gold"
+        ]
       },
       "Void": {
         "game": "A Link to the Past",
-        "eligible": [ "silver" ]
+        "eligible": [
+          "silver"
+        ]
       }
     }
   },
@@ -41,35 +57,55 @@
     "players": {
       "7n7": {
         "game": "A Link to the Past",
-        "eligible": [ "platinum", "onyx" ]
+        "eligible": [
+          "platinum",
+          "onyx"
+        ]
       },
       "Fechdog": {
         "game": "A Link to the Past",
-        "eligible": [ "platinum", "sapphire" ]
+        "eligible": [
+          "platinum",
+          "sapphire"
+        ]
       },
       "Flareon": {
-        "game": "Pokemon Mystery Dungeon: Explorers of Sky",
-        "eligible": [ "platinum", "ruby" ]
+        "game": "Pok\u00e9mon Mystery Dungeon: Explorers of Sky",
+        "eligible": [
+          "platinum",
+          "ruby"
+        ]
       },
       "Kyle": {
         "game": "Ocarina of Time",
-        "eligible": [ "gold" ]
+        "eligible": [
+          "gold"
+        ]
       },
       "Mothula": {
         "game": "A Link to the Past",
-        "eligible": [ "platinum" ]
+        "eligible": [
+          "platinum"
+        ]
       },
       "Murder": {
         "game": "Lingo 2",
-        "eligible": [ "platinum" ]
+        "eligible": [
+          "platinum"
+        ]
       },
       "Royal": {
         "game": "Super Mario 64",
-        "eligible": [ "platinum" ]
+        "eligible": [
+          "platinum"
+        ]
       },
       "Void": {
         "game": "A Link to the Past",
-        "eligible": [ "platinum", "emerald" ]
+        "eligible": [
+          "platinum",
+          "emerald"
+        ]
       }
     }
   },
@@ -78,47 +114,74 @@
     "players": {
       "7n7": {
         "game": "The Wind Waker",
-        "eligible": [ "platinum", "onyx", "emerald" ]
+        "eligible": [
+          "platinum",
+          "onyx",
+          "emerald"
+        ]
       },
       "ArtsyLG": {
         "game": "Kirby's Dream Land 3",
-        "eligible": [ "onyx" ]
+        "eligible": [
+          "onyx"
+        ]
       },
       "Fechdog": {
         "game": "Ocarina of Time",
-        "eligible": [ "platinum", "diamond", "ruby" ]
+        "eligible": [
+          "platinum",
+          "diamond",
+          "ruby"
+        ]
       },
       "Flareon": {
-        "game": "Pokemon Red and Blue",
-        "eligible": [ "platinum" ]
+        "game": "Pok\u00e9mon Red and Blue",
+        "eligible": [
+          "platinum"
+        ]
       },
       "Kyle": {
         "game": "Ocarina of Time",
-        "eligible": [ "gold" ]
+        "eligible": [
+          "gold"
+        ]
       },
       "Maskeroshi": {
         "game": "Ocarina of Time",
-        "eligible": [ "silver" ]
+        "eligible": [
+          "silver"
+        ]
       },
       "Mothula": {
         "game": "Donkey Kong Country",
-        "eligible": [ "platinum" ]
+        "eligible": [
+          "platinum"
+        ]
       },
       "Murder": {
         "game": "Lingo",
-        "eligible": [ "platinum", "sapphire" ]
+        "eligible": [
+          "platinum",
+          "sapphire"
+        ]
       },
       "Royal": {
         "game": "Super Mario World",
-        "eligible": [ "platinum" ]
+        "eligible": [
+          "platinum"
+        ]
       },
       "SuperSquad33": {
         "game": "Super Metroid",
-        "eligible": [ "platinum" ]
+        "eligible": [
+          "platinum"
+        ]
       },
       "Void": {
         "game": "Celeste",
-        "eligible": [ "platinum" ]
+        "eligible": [
+          "platinum"
+        ]
       }
     }
   },
@@ -127,43 +190,66 @@
     "players": {
       "7n7": {
         "game": "Super Mario World",
-        "eligible": [ "orichalcum", "ruby" ]
+        "eligible": [
+          "orichalcum",
+          "ruby"
+        ]
       },
       "Fechdog": {
         "game": "MegaMan Battle Network 3",
-        "eligible": [ "orichalcum" ]
+        "eligible": [
+          "orichalcum"
+        ]
       },
       "Flareon": {
-        "game": "Pokemon Crystal",
-        "eligible": [ "platinum", "sapphire" ]
+        "game": "Pok\u00e9mon Crystal",
+        "eligible": [
+          "platinum",
+          "sapphire"
+        ]
       },
       "Kyle": {
         "game": "Super Mario 64",
-        "eligible": [ "platinum" ]
+        "eligible": [
+          "platinum"
+        ]
       },
       "Maskeroshi": {
         "game": "Ocarina of Time",
-        "eligible": [ "bronze" ]
+        "eligible": [
+          "bronze"
+        ]
       },
       "Mothula": {
         "game": "Donkey Kong Country",
-        "eligible": [ "orichalcum" ]
+        "eligible": [
+          "orichalcum"
+        ]
       },
       "Murder": {
         "game": "Secret of Evermore",
-        "eligible": [ "orichalcum" ]
+        "eligible": [
+          "orichalcum"
+        ]
       },
       "Royal": {
         "game": "Super Mario World",
-        "eligible": [ "platinum" ]
+        "eligible": [
+          "platinum"
+        ]
       },
       "SuperSquad33": {
         "game": "Super Metroid",
-        "eligible": [ "orichalcum" ]
+        "eligible": [
+          "orichalcum"
+        ]
       },
       "Void": {
         "game": "Mario & Luigi Superstar Saga",
-        "eligible": [ "orichalcum", "emerald" ]
+        "eligible": [
+          "orichalcum",
+          "emerald"
+        ]
       }
     }
   },
