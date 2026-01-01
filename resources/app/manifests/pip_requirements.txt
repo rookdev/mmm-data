@@ -1,0 +1,4 @@
+flatten_json
+jsonschema
+referencing
+pyyaml
