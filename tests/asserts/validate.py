@@ -11,7 +11,7 @@ for dbFilename in os.listdir(dbDir):
     if os.path.isfile(dbFilepath):
         if dbFilename.endswith(".json"):
             with open(dbFilepath, "r", encoding="utf-8") as dbFile:
-                print(f"Processing {dbFilepath}")
+                print(f"Validating {dbFilepath}")
                 try:
                     dbJSON = json.load(dbFile)
                 except json.JSONDecodeError as e:

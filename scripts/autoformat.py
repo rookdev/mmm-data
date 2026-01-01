@@ -11,7 +11,7 @@ import format_json
 for path in sorted(Path("../dbs/").glob("**/*.json")):
     room_json = json.load(path.open("r"))
 
-    print("Processing", path)
+    print(f"Autoformatting {path}")
     new_room_json = format_json.format(room_json, indent=2) + "\n"
 
     # Validate that the new JSON is equivalent to the old (i.e. the differences affect formatting only):
